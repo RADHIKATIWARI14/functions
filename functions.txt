@@ -1,0 +1,12 @@
+                      FUNCTIONS
+
+Functions are the code block written for a specific task
+and are executed when called.
+
+Types of funcions:-
+
+1. In-built functions: These are defined by the developers,
+it forms the skeletal or dramatical structure of a language.
+
+2. User-defined function: It is made by the user for a specific
+task.
